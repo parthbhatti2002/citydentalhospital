@@ -266,7 +266,7 @@ nav{
 }
 
 .About-object{
-    /* background-image: url('/images/teeth-bg.png');
+    /* background-image: url('teeth-bg.png');
     background-position: 1250px 215px ; 
     background-repeat: no-repeat; */
     /* padding-left: 10px; */
@@ -340,7 +340,7 @@ nav{
 /* stats-container- css */
 
 .stats-container{
-    background-image: url('/images/stats-container.png');
+    background-image: url('stats-container.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -552,7 +552,7 @@ nav{
 /* specification css */
 
 .specification-section{
-    background-image: url('/images/specification-bg.png');
+    background-image: url('specification-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -604,7 +604,7 @@ nav{
 /* doctor section css */
 
 .doctor-bg{
-    background-image: url('/images/doctor-chest-bg.png') !important;
+    background-image: url('doctor-chest-bg.png') !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -623,7 +623,7 @@ nav{
 } */
 
 /* .purpal-bg::after{
-    background-image: url('/images/purpal-bg.png');
+    background-image: url('purpal-bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -720,7 +720,7 @@ nav{
 
 .download-detail{
     position: relative;
-    /* background-image: url('/images/download-section-chair-bg.png');
+    /* background-image: url('download-section-chair-bg.png');
     background-position: 520px bottom;
     background-repeat: no-repeat; */
     /* padding-left: 30px;
