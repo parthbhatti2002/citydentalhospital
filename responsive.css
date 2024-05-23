@@ -103,7 +103,7 @@
     .bottumn-card{
         padding: 10px 10px;
         width: 300px;
-        height: 100px;
+        height: 80px;
         background-color: #FFFFFF;
         border-bottom-left-radius: 30px;
         border-bottom-right-radius: 30px;
@@ -113,10 +113,10 @@
     .doctor-information h1{
         font-size: 18px;
         font-weight: 600;
+        margin-bottom: 10px;
         
     }
     .doctor-information p{
-        padding-top: 20px;
         font-size: 14px;
         font-weight: 300;
     }
@@ -174,32 +174,6 @@
 }
 
 
-.name-section input{
-    width: 184.5px;
-    height: 48px;
-}
-
-.email-section input{
-    width: 184.5px;
-    height: 48px;
-}
-
-
-.subject-part input{ 
-    width: 420px;
-    height: 48px;
-}
-
-
-.Message-part textarea{ 
-    width: 420px;
-    height: 124px;
-} 
-.contact-btn{
-    width: 420px;
-    height: 44px;
-    
-}
 .big-teeth {
     position: absolute;
     z-index: 1;
@@ -217,6 +191,9 @@
 
 @media screen and (max-width: 1024px) {
     .padding-left{
+        padding-left: 40px !important;
+    }
+    .About-object.theme-padding {
         padding-left: 40px !important;
     }
     .theme-padding{
@@ -289,31 +266,8 @@
         padding: 0px 0px;
     }
 
-        
-    .name-section input{
-        width: 385px;
-    }
-    .contact-email {
-        margin-left: 299px;
-    }
-    .email-section input{
-        width: 385px;
-       
-    }
-
-    .subject-part input{ 
-        width: 100%;
-        height: 48px;
-    }
-    
-    .Message-part textarea{ 
-        width: 100%;
-    }
-
-    
-.contact-btn{
-    width: 100%;
-}
+   
+ 
 
 .Privacy-Policy h1 {
     text-align: center;
@@ -348,12 +302,7 @@
 
 
 @media screen and (max-width: 880px) {
-    .name-section input{
-        width: 342.5px !important;
-    }
-    .email-section input {
-        width: 342.5px !important;
-    }
+    
 }
 
 
@@ -369,17 +318,8 @@
         padding-bottom: 40px;
     }
     
-.name-and-email {
-    display: block;
-}
-.name-section input {
-    width: 100% !important;
-    margin-bottom: 20px;
-}
 
-.email-section input {
-    width: 100% !important;
-}
+
     .teeth-bg img{
         height: 90px;
     }
@@ -490,18 +430,6 @@
     margin-left: 0px;
 }
 
-.name-and-email {
-    display: block;
-}
-.name-section input {
-    width: 100% !important;
-    margin-bottom: 20px;
-}
-
-.email-section input {
-    width: 100% !important;
-}
-
 .stats-container-title h1 {
     font-size: 32px;
 }
@@ -574,7 +502,7 @@
         margin-bottom: 5px;
     }
     .specification-title p {
-        font-size: 16px;
+        font-size: 14px;
         margin-bottom: 20px;
     }
     .teeth-bg {
@@ -598,14 +526,13 @@
 
 @media screen and (max-width: 480px) {
     section{
-        padding-top:20px;
-        padding-bottom: 20px;
+        padding-top:40px;
+        padding-bottom: 40px;
     }
     .baner-text h1 {
         font-size: 35px;
         line-height: 38.51px;
         font-weight: 500;
-        margin-bottom: 20px;
     }
     .baner-text p {
         font-size: 16px;
@@ -613,7 +540,6 @@
 
     .about-text h1 {
         font-size: 27px;
-        margin-bottom: 0px;
     }
     .about-text h2 {
         font-size: 16px;
@@ -639,10 +565,10 @@
         .specification-title h1 {
             font-size: 28px;
         }
-        .download {
+        /* .download {
             padding-top: 10px;
             padding-left: 40px;
-        }
+        } */
         .doctor-title h1{
             font-size: 34px;
             font-weight: 700px;
