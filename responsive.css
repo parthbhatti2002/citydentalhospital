@@ -1,0 +1,743 @@
+@media screen and (max-width: 1799px) {}
+
+
+@media screen and (max-width: 1599px) {}
+
+@media screen and (max-width: 1408px) {
+    .teeth-bg {
+        position: absolute;
+        top: 60px;
+        left: 205px;
+    }
+   
+    .doctor-card {
+        width: 305px;
+        height: 355px;
+    }
+    .bottumn-card {
+        width: 305px;
+        height: 115px;
+    }
+    .download-section-chair-bg {
+        position: absolute;
+        bottom: -27px;
+        right: 30px;
+    }
+}
+
+@media screen and (max-width: 1216px) {
+    .padding-left{
+        padding-left: 0px !important;
+    }
+    .top-nav{
+        display: none;
+    }
+    .bottum-nav {
+        padding: 9px 166px;
+        align-items: center;
+    }
+    .top-nav{
+        padding: 5px 10px;
+        align-items: center;
+    }
+    .theme-padding{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .baner-object img{
+        height: 500px;
+        width: 100%;
+    }
+    .teeth-bg {
+        position: absolute;
+        top: 52px;
+        left: 189px;
+    }
+    .booking-title h1{
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+    
+    .booking-title p{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .booking-title button{
+    font-size: 16px;
+    padding: 15px 25px;
+    }
+    .booking-title button i{
+        margin-right: 10px;
+        color: #FFFFFF;
+    }
+    .specification-title h1{
+        font-size: 35px;
+        font-weight: 700;
+    }
+    
+    .specification-title h2{
+        font-size: 20px;
+    }
+    
+    .specification-title p{
+        font-size: 16px;   
+        margin-bottom: 30px;
+    }
+
+    .doctor-card{
+        padding: 20px 20px;
+        width: 300px;
+        height: 352px;
+        background-color: #FFFFFF;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        margin-bottom: 7px !important;
+    }
+    
+    .bottumn-card{
+        padding: 10px 10px;
+        width: 300px;
+        height: 100px;
+        background-color: #FFFFFF;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+       
+    }
+
+    .doctor-information h1{
+        font-size: 18px;
+        font-weight: 600;
+        
+    }
+    .doctor-information p{
+        padding-top: 20px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+    
+.download-title h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.download-subtitle text{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.download-scaner{
+    height: 140px;
+    width: 140px;
+}
+.google-playstor{
+    height: 90px;
+    width: 180px;
+}
+
+.download-section-chair-bg {
+    position: absolute;
+    bottom: -26px;
+    right: 30px;
+}
+
+.contact-title h1{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.contact-head h1{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.contact-paragraph p{
+    font-size: 15px;
+    font-weight: 500;       
+}
+
+.contact-methods{
+    gap: 20px;
+}
+.contact-number h1{
+    font-size: 14px;
+    font-weight: 500;   
+}
+.email-address p{
+    font-size: 14px;
+    font-weight: 500;  
+}
+
+
+.name-section input{
+    width: 184.5px;
+    height: 48px;
+}
+
+.email-section input{
+    width: 184.5px;
+    height: 48px;
+}
+
+
+.subject-part input{ 
+    width: 420px;
+    height: 48px;
+}
+
+
+.Message-part textarea{ 
+    width: 420px;
+    height: 124px;
+} 
+.contact-btn{
+    width: 420px;
+    height: 44px;
+    
+}
+.big-teeth {
+    position: absolute;
+    z-index: 1;
+    top: 24%;
+    right: 0;
+    left: 5%;
+}
+
+}
+
+/* @media screen and (max-width: 1170px){
+   
+} */
+
+
+@media screen and (max-width: 1024px) {
+    .padding-left{
+        padding-left: 40px !important;
+    }
+    .theme-padding{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .bottum-nav ul{
+      display: none;
+    }
+    .responcive-logo{
+        width: 100%;
+        position: absolute;
+        display: block;
+        left: 10px;
+        justify-content: space-between;
+    }
+    .responcive-logo img{
+        height: 40px;
+    }
+    .responcive-logo i{
+        top: 20px;
+        right: 40px;
+        position: absolute;
+    }
+    .top-nav{
+        display: none;
+    }
+    .scrall-nav{
+    padding: 20px 60px;
+    align-items: center;
+    }
+
+    .scrall-nav li{
+        margin-left: 20px;
+    }
+    .scrall-nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+   
+
+    .download-title h1{
+        font-size: 34px;
+        font-weight: 500;
+    }
+    
+    .download-subtitle text{
+        font-size: 14px;
+        font-weight: 500;
+    }
+    
+    .download-scaner{
+        height: 140px;
+        width: 140px;
+    }
+    .google-playstor{
+        height: 90px;
+        width: 160px;
+    }
+
+    .download-section-chair-bg img{
+       height: 150px;
+    }
+    .contact-form{
+        padding: 0px 0px;
+    }
+
+        
+    .name-section input{
+        width: 385px;
+    }
+    .contact-email {
+        margin-left: 299px;
+    }
+    .email-section input{
+        width: 385px;
+       
+    }
+
+    .subject-part input{ 
+        width: 100%;
+        height: 48px;
+    }
+    
+    .Message-part textarea{ 
+        width: 100%;
+    }
+
+    
+.contact-btn{
+    width: 100%;
+}
+
+.Privacy-Policy h1 {
+    text-align: center;
+}
+
+
+.play-button {
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    right: 0;
+    left: 48%;
+}
+.big-teeth {
+    position: absolute;
+    z-index: 1;
+    top: 27%;
+    right: 0;
+    left: 5%;
+    width: 100px;
+}
+
+.teeth-bg {
+    position: absolute;
+    top: 55px;
+    left: 208px;
+}
+.teeth-bg img {
+    height: 110px;
+}
+}
+
+
+@media screen and (max-width: 880px) {
+    .name-section input{
+        width: 342.5px !important;
+    }
+    .email-section input {
+        width: 342.5px !important;
+    }
+}
+
+
+
+@media screen and (max-width: 991px) {
+    
+    .theme-padding{
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    
+.name-and-email {
+    display: block;
+}
+.name-section input {
+    width: 100% !important;
+    margin-bottom: 20px;
+}
+
+.email-section input {
+    width: 100% !important;
+}
+    .teeth-bg img{
+        height: 90px;
+    }
+    .teeth-bg {
+        position: absolute;
+        top: 75px;
+        left: 195px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 768px){
+
+    .theme-padding{
+        padding-left: 40px !important;
+        padding-right: 40px;
+    }
+    section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .baner-text h1 {
+        font-size: 41px;
+        line-height: 42.51px;
+        font-weight: 500;
+    }
+    .booking-btn a {
+        padding: 8px 24px;
+      
+    }
+
+    .about-text h1 {
+        font-size: 33px;
+    }
+
+    .about-text h2 {
+        font-size: 18px;
+    }.about-text p {
+        font-size: 14px;
+    }
+
+    .theme-state-desc h1{
+        margin-bottom: 8px;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 40.64px;
+    }
+
+    
+.booking-title h1{
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 30.76px;
+}
+
+.booking-title p{
+    font-size: 20px;
+}
+
+.booking-title button{
+    font-size: 18px;
+    padding: 8px 20px; 
+}
+.play-button {
+    position: absolute;
+    z-index: 1;
+    top: 44%;
+    right: 0;
+    left: 49%;
+    width: 54px;
+}
+.big-teeth {
+    position: absolute;
+    z-index: 1;
+    top: 22%;
+    right: 0;
+    left: 5%;
+    width: 98px;
+}
+.specification-img img{
+    width: 80%;
+}
+.specification-img{
+    margin: auto;
+}
+
+.download-section-chair-bg {
+    position: absolute;
+    bottom: -12px;
+    right: 30px;
+}
+
+.download{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.contact-methods {
+    display: block;
+}
+.contact-mobile-no {
+    margin-bottom: 20px;
+}
+
+.contact-email {
+    margin-left: 0px;
+}
+
+.name-and-email {
+    display: block;
+}
+.name-section input {
+    width: 100% !important;
+    margin-bottom: 20px;
+}
+
+.email-section input {
+    width: 100% !important;
+}
+
+.stats-container-title h1 {
+    font-size: 32px;
+}
+.services-title h1 {
+    font-size: 34px;
+}
+
+
+}
+
+@media screen and (max-width: 860px){}
+
+
+@media screen and (max-width: 575px) {
+    .theme-padding{
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    section{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .baner-object img {
+        height: 379px;
+        width: 100%;
+    }
+
+    .baner-text h1 {
+        font-size: 35px;    
+    }
+    .booking-btn a {
+        font-size: 16px;
+    }
+    .about-text h1 {
+        font-size: 30px;
+    }
+    .about-text h2 {
+        font-size: 16px;
+    }
+    .about-text h3 {
+        font-size: 14px;
+    }
+    .stats-container-title h1 {
+        font-size: 30px;
+    }
+
+    .theme-stats-container img {
+        max-width: 80px; 
+    }
+    .services-title h1 {
+        font-size: 30px;
+        margin-bottom: 22px;
+    }
+    .booking-title, .big-teeth{
+    display: none;
+    }
+    .play-button {
+        top: 37%;
+        left: 46%;
+    }
+    .specification-title h1 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .specification-title h2 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .specification-title p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .teeth-bg {
+        position: absolute;
+        top: 72px;
+        left: 175px;
+    }
+    .contact-head h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .Rights-part h1{
+        text-align: center !important;
+    }
+    .doctor-title {
+        margin-bottom: 21px;
+    }
+   
+}
+
+
+@media screen and (max-width: 480px) {
+    section{
+        padding-top:20px;
+        padding-bottom: 20px;
+    }
+    .baner-text h1 {
+        font-size: 35px;
+        line-height: 38.51px;
+        font-weight: 500;
+        margin-bottom: 20px;
+    }
+    .baner-text p {
+        font-size: 16px;
+    }
+
+    .about-text h1 {
+        font-size: 27px;
+        margin-bottom: 0px;
+    }
+    .about-text h2 {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 2px;
+    }
+
+    .teeth-bg {
+        position: absolute;
+        top: 50px;
+        left: 160px;
+    }
+    .stats-container-title h1 {
+        font-size: 28px;
+    }
+
+    .theme-stats-container img {
+        max-width: 60px;
+    }
+    .services-title h1 {
+        font-size: 28px;
+        }
+        .specification-title h1 {
+            font-size: 28px;
+        }
+        .download {
+            padding-top: 10px;
+            padding-left: 40px;
+        }
+        .doctor-title h1{
+            font-size: 34px;
+            font-weight: 700px;
+        }
+        .download-title h1 {
+            font-size: 38px;
+            margin-bottom: 8px;
+        }
+
+        .download-section-chair-bg img {
+            height: 110px;
+        }
+        .contact-head h1 {
+            font-size: 28px;
+            margin-bottom: 6px;
+        }
+        .footer-logo img {
+            height: auto;
+            max-width: 80%;
+        }
+}
+
+
+@media screen and (max-width: 420px) {
+    .doctor-title {
+        margin-bottom: 21px;
+    }
+    .padding-left{
+        padding-left: 20px !important;
+    }
+    .theme-padding{
+        padding-left: 20px !important;
+        padding-right: 20px;
+    }
+    section{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .baner-object img {
+        height: 324px;
+        width: 100%;
+    }
+    .baner-text h1 {
+        font-size: 29px;
+        line-height: 33.51px;
+        margin-bottom: 15px;
+    }
+    .booking-btn a {
+        font-size: 13px;
+    }
+    .baner-text p {
+        font-size: 14px;
+    }
+    .download-title h1 {
+        font-size: 32px;
+        margin-bottom: 8px;
+    }
+    .download-section-chair-bg img {
+        height: 95px;
+    }
+    .download-section-chair-bg {
+        right: 12px;
+    }
+    .contact-title h1 {
+        margin-bottom: 8px;
+    }
+    .contact-head h1 {
+        line-height: 35.76px;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .doctor-card {
+        padding: 20px 20px;
+        width: 234px;
+        height: 266px;
+    }
+    .doctor-information p {
+        padding-top: 6px;
+    }
+
+        .bottumn-card {
+            padding: 4px 3px;
+            width: 234px;
+            height: 80px;
+        }
+
+        .doctor-title {
+            margin-bottom: 25px;
+        }
+
+}
+
+
+@media screen and (max-width: 360px) {
+
+}
